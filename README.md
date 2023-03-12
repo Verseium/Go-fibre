@@ -14,3 +14,11 @@ Go Fiber (often stylized as "Fiber") is a web framework for building web applica
 - Extensible: Go Fiber is built to be extensible, with a modular design that allows you to add your own functionality to the framework.
 
 Overall, Go Fiber is a great choice for building fast and efficient web applications in Go, and its minimalistic approach makes it easy to get started with.
+
+
+## Installation
+
+```bash
+go install github.com/gofiber/fiber/v2@latest
+```
+
